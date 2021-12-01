@@ -12,7 +12,9 @@ When executing the [program]() the following instructions should appear:
 
 ![](https://www.linkpicture.com/q/Screenshot-2021-12-01-at-20.39.35.png)
 
-The user can choose any operation from the above. The generated images will be saved in the folder [GeneratedImages](). CAREFUL! Each time you execute the program it will empty the [GeneratedImages]() folder. 
+The user can choose any operation from the above. The generated images will be saved in the folder [GeneratedImages](). 
+
+CAREFUL! Each time you execute the program it will empty the [GeneratedImages]() folder. 
 
 
 
