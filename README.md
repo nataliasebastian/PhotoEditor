@@ -8,7 +8,7 @@ It implements the following tools:
 * Make transitions between 2 images.
 
 ## How to use
-When executing the [main]() the following instructions should appear:
+When executing the [program]() the following instructions should appear:
 
 ![](https://www.linkpicture.com/q/Screenshot-2021-12-01-at-20.39.35.png)
 
