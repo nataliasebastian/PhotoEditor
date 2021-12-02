@@ -19,3 +19,5 @@ CAREFUL! Each time you execute the program it will empty the [GeneratedImages](h
 ## Results
 ![](https://www.linkpicture.com/q/resultados.jpg)
 
+Transitions
+![](https://www.linkpicture.com/q/Transitions.gif)
