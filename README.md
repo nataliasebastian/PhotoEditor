@@ -16,5 +16,6 @@ The user can choose any operation from the above. The generated images will be s
 
 CAREFUL! Each time you execute the program it will empty the [GeneratedImages](https://github.com/nataliasebastian/PhotoEditor/tree/main/GeneratedImages) folder. 
 
-
+## Results
+![](https://www.linkpicture.com/q/resultados.jpg)
 
