@@ -10,7 +10,8 @@ It implements the following tools:
 ## How to use
 When executing the [program](https://github.com/nataliasebastian/PhotoEditor/blob/main/src/packPrincipal/ProgramaPrincipal.java) the following instructions should appear:
 
-![](https://www.linkpicture.com/q/Screenshot-2021-12-01-at-20.39.35.png)
+<img width="571" alt="68747470733a2f2f7777772e6c696e6b706963747572652e636f6d2f712f53637265656e73686f742d323032312d31322d30312d61742d32302e33392e33352e706e67" src="https://user-images.githubusercontent.com/81468329/144596111-98b5f218-e201-484d-9ccd-e4bd31c31f38.png">
+
 
 The user can choose any operation from the above. The generated images will be saved in the folder [GeneratedImages](https://github.com/nataliasebastian/PhotoEditor/tree/main/GeneratedImages). 
 
